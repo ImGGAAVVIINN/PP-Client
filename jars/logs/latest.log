@@ -1,0 +1,32 @@
+[15:11:30] [Client thread/INFO]: Setting user: Player103
+[15:11:30] [Client thread/INFO]: (Session ID is token:0:Player103)
+[15:11:38] [Client thread/INFO]: LWJGL Version: 2.9.1
+[15:11:38] [Client thread/INFO]: Reloading ResourceManager: Default
+[15:11:39] [Client thread/ERROR]: Couldn't initialize twitch stream
+[15:11:39] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[15:11:39] [Thread-7/INFO]: Initializing LWJGL OpenAL
+[15:11:39] [Thread-7/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[15:11:39] [Thread-7/INFO]: OpenAL initialized.
+[15:11:39] [Sound Library Loader/INFO]: Sound engine started
+[15:11:42] [Client thread/INFO]: Created: 2048x1024 textures-atlas
+[15:12:15] [Server thread/INFO]: Starting integrated minecraft server version 1.8
+[15:12:15] [Server thread/INFO]: Generating keypair
+[15:12:15] [Server thread/INFO]: Preparing start region for level 0
+[15:12:16] [Server thread/INFO]: Changing view distance to 12, from 10
+[15:12:16] [Server thread/INFO]: Player103[local:E:7c10ee26] logged in with entity id 220 at (571.4878599278675, 84.34693020982718, 250.43336020707497)
+[15:12:16] [Server thread/INFO]: Player103 joined the game
+[15:12:26] [Server thread/INFO]: Player103 has just earned the achievement [Taking Inventory]
+[15:12:26] [Client thread/INFO]: [CHAT] Player103 has just earned the achievement [Taking Inventory]
+[15:12:28] [Server thread/INFO]: Saving and pausing game...
+[15:12:28] [Server thread/INFO]: Saving chunks for level 'mcpworld'/Overworld
+[15:12:28] [Server thread/INFO]: Saving chunks for level 'mcpworld'/Nether
+[15:12:28] [Server thread/INFO]: Saving chunks for level 'mcpworld'/The End
+[15:12:29] [Server thread/INFO]: Stopping server
+[15:12:29] [Server thread/INFO]: Saving players
+[15:12:29] [Server thread/INFO]: Saving worlds
+[15:12:29] [Server thread/INFO]: Saving chunks for level 'mcpworld'/Overworld
+[15:12:29] [Server thread/INFO]: Saving chunks for level 'mcpworld'/Nether
+[15:12:29] [Server thread/INFO]: Saving chunks for level 'mcpworld'/The End
+[15:12:30] [Client thread/INFO]: Stopping!
+[15:12:30] [Client thread/INFO]: SoundSystem shutting down...
+[15:12:30] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
